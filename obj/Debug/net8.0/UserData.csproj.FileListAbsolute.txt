@@ -1,0 +1,14 @@
+D:\GitHub\MeuProjeto\C#\userdata\UserData\bin\Debug\net8.0\UserData.exe
+D:\GitHub\MeuProjeto\C#\userdata\UserData\bin\Debug\net8.0\UserData.deps.json
+D:\GitHub\MeuProjeto\C#\userdata\UserData\bin\Debug\net8.0\UserData.runtimeconfig.json
+D:\GitHub\MeuProjeto\C#\userdata\UserData\bin\Debug\net8.0\UserData.dll
+D:\GitHub\MeuProjeto\C#\userdata\UserData\bin\Debug\net8.0\UserData.pdb
+D:\GitHub\MeuProjeto\C#\userdata\UserData\obj\Debug\net8.0\UserData.GeneratedMSBuildEditorConfig.editorconfig
+D:\GitHub\MeuProjeto\C#\userdata\UserData\obj\Debug\net8.0\UserData.AssemblyInfoInputs.cache
+D:\GitHub\MeuProjeto\C#\userdata\UserData\obj\Debug\net8.0\UserData.AssemblyInfo.cs
+D:\GitHub\MeuProjeto\C#\userdata\UserData\obj\Debug\net8.0\UserData.csproj.CoreCompileInputs.cache
+D:\GitHub\MeuProjeto\C#\userdata\UserData\obj\Debug\net8.0\UserData.dll
+D:\GitHub\MeuProjeto\C#\userdata\UserData\obj\Debug\net8.0\refint\UserData.dll
+D:\GitHub\MeuProjeto\C#\userdata\UserData\obj\Debug\net8.0\UserData.pdb
+D:\GitHub\MeuProjeto\C#\userdata\UserData\obj\Debug\net8.0\UserData.genruntimeconfig.cache
+D:\GitHub\MeuProjeto\C#\userdata\UserData\obj\Debug\net8.0\ref\UserData.dll
